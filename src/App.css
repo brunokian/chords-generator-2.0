@@ -1,0 +1,74 @@
+body {
+  background-color: rgb(16 185 129);
+}
+
+/* * {
+  background-color: rgb(27, 26, 26);
+}
+
+h1 {
+  font-size: 100px;
+  margin-top: 250px;
+  color: rgb(8, 240, 8);
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  font-size: 30px;
+  margin-top: 250px;
+  color: rgb(8, 240, 8);
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 150px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: rgb(8, 240, 8);
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button:active {
+  color: white;
+}
+
+select {
+  color: white;
+  width: 100px;
+  border-radius: 20px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+label {
+  color: white;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+input {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+} */
